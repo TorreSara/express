@@ -1,0 +1,19 @@
+{
+    "productos" :[
+    {
+        "ID": 1,
+        "Nombre": "maquillaje",
+        "Precio": 3000
+    },
+    {
+        "ID": 2,
+        "Nombre": "queso",
+        "Precio": 5000
+    },
+    {
+        "ID": 3,
+        "Nombre": "",
+        "Precio": 15000
+    }
+    ]
+}
